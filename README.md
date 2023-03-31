@@ -35,3 +35,7 @@ To use this script in your Linux distribution, follow these steps:
   
 
 Note: It's important to run the script with proper permissions and obtain necessary authorizations before using it against any domain.
+
+  
+  
+`This is a Python script for Sub-Domain Reconnaissance, developed by OpenAvijeh. It automatically extracts sub-domains, IP addresses, open ports, and technologies for the given domain by utilizing various Open Source tools and libraries. OpenAvijeh welcomes contributions and collaboration to improve this tool `
